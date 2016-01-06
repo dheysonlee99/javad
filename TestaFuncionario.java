@@ -3,7 +3,7 @@ class TestaFuncionario{
 		Funcionario Rm = new Funcionario();
 		Data data = new Data();
 
-		
+		Rm.dataDeEntrada = 30 10 1994;
 		Rm.nome = "Dheyson lee";
 		Rm.salario = 1000;
 		Rm.departamento = "limpeza"
@@ -15,7 +15,9 @@ class TestaFuncionario{
 
 
 		Funcionario Bn = new Funcionario();
+		Data data = new Data();
 
+		Bn.dataDeEntrada = 02 11 1990;
 		Bn.nome = "Joao da Barra";
 		Bn.salario = 10000;
 		Bn.departamento = "presidente"
@@ -27,6 +29,9 @@ class TestaFuncionario{
 
 		Funcionario Jn = new Funcionario();
 
+		Data data = new Data();
+
+		Jn.dataDeEntrada = 4 12 1992;
 		Jn.nome = "Ricardo Constancio";
 		Jn.salario = 23000;
 		Jn.departamento = "gari"
@@ -38,6 +43,9 @@ class TestaFuncionario{
 		
 		Funcionario Fj = new Funcionario();
 
+		Data data = new Data();
+
+		Fj.dataDeEntrada = 5 12 2001;
 		Fj.nome = "Maria dos Anjos"
 		Fj.salario = 30000
 		Fj.departamento = "servicos gerais"
@@ -45,6 +53,9 @@ class TestaFuncionario{
 
 		Funcionario Fk = new Funcionario();
 
+		Data data = new Data();
+
+		Fk.dataDeEntrada = 6 7 2010;
 		Fk.nome = "Maria dos Anjos"
 		Fk.salario = 30000
 		Fk.departamento = "servicos gerais"
