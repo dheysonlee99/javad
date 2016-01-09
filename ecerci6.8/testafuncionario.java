@@ -1,20 +1,20 @@
 class TestaFuncionario{
 	public static void main(String[] args) {
-		Funcionario Rm = new Funcionario();
+		Funcionario rm = new Funcionario();
 		Data en = new Data();
 		en.dia = 9;
 		en.mes = 12;
 		en.ano = 2014;
-		Rm.setNome("lee");
-		Rm.setDepartamento("Executivo");
-		Rm.setSalario(22000);
-		Rm.getrg(098712345654);
-		Rm.setData(en);
+		rm.setNome("lee");
+		rm.setDepartamento("Executivo");
+		rm.setSalario(22000);
+		rm.getrg(098712345654);
+		rm.setData(en);
 		
-		System.out.println(Rm);
+		System.out.println(rm);
 
-		Rm.recebeAumento(30000);
+		rm.recebeAumento(30000);
 
-		Rm.getGanhoAnual();
+		rm.getGanhoAnual();
 	
 }

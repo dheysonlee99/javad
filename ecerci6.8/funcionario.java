@@ -24,7 +24,7 @@ class Funcionario{
 	    return departamento;
 	  }
 	public String setDepartamento(String departmento) {
-		this.deaprtamento = departamento;
+		this.departamento = departamento;
 	  }
 	
 	public float getSalario() {
