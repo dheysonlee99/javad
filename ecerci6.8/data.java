@@ -11,6 +11,6 @@ class Data {
 	}
 
 public String toString(){
-		return ano + "/" + mes + "/" + dia;
+		return ano + "-" + mes + "-" + dia;
 		}
 }
