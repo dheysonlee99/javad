@@ -11,10 +11,10 @@ class TestaFuncionario{
 		Rm.getrg(098712345654);
 		Rm.setData(en);
 		
-		System.out.println(f1);
+		System.out.println(Rm);
 
-		f1.recebeAumento(30000);
+		Rm.recebeAumento(30000);
 
-		f1.getGanhoAnual();
+		Rm.getGanhoAnual();
 	
 }
