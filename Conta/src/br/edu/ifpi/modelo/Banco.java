@@ -19,7 +19,7 @@ public class Banco {
 	}
 	
 	public int pegarTotalDeContas(){
-		return this.contadorDeContas;
+		return contadorDeContas;
 	}
 
 }

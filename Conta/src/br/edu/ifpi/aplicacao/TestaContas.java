@@ -58,12 +58,7 @@ public class TestaContas {
 		
 	}
 	System.out.println("Saldo Total: "+ adc2.getSaldoTotal());
-	
-	
-	
+	System.out.println("Total de Contas: "+ banco.pegarTotalDeContas());
 	}
-	
-
-	
-	
+		
 }
