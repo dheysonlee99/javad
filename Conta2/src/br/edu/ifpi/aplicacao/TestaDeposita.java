@@ -5,7 +5,7 @@ import br.edu.ifpi.modelo.ContaPoupanca;
 import br.edu.ifpi.modelo.ValorInvalidoException;
 
 public class TestaDeposita {
-	public static void main(String[] args) throws ValorInvalidoException {
+	public static void main(String[] args){
 //		Conta cp = new ContaPoupanca();
 //		try {
 //			cp.deposita(-1100);
@@ -16,7 +16,7 @@ public class TestaDeposita {
 		Conta pp = new ContaPoupanca();
 		try {
 			pp.deposita(-1100);
-		} catch (Exception e) {
+		} catch (ValorInvalidoException e) {
 			System.out.println(e.getMessage());
 		}
 	}
