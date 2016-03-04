@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="br.edu.ifpi.modelo.Conta"/>
+<fullyQualifiedTypeName name="br.edu.ifpi.aplicacao.TestaContas"/>
+<fullyQualifiedTypeName name="br.edu.ifpi.modelo.ContaCorrente"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="br.edu.ifpi.modelo.AtualizadorDeContas"/>
+<fullyQualifiedTypeName name="br.edu.ifpi.modelo.ContaPoupanca"/>
+<fullyQualifiedTypeName name="br.edu.ifpi.modelo.Banco"/>
+<fullyQualifiedTypeName name="org.omg.PortableInterceptor.ForwardRequestHelper"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="AreaCalculavel"/>
+<fullyQualifiedTypeName name="GerenciadorDeImpostoDeRenda"/>
+<fullyQualifiedTypeName name="SeguroDeVida"/>
+<fullyQualifiedTypeName name="ContaCorrente"/>
+<fullyQualifiedTypeName name="ContaTributavel"/>
+<fullyQualifiedTypeName name="br.edu.ifpi.forca.modelo.Boneco"/>
+<fullyQualifiedTypeName name="br.edu.ifpi.forca.modelo.Forca"/>
+<fullyQualifiedTypeName name="br.edu.ifpi.forca.modelo.Palavras"/>
+<fullyQualifiedTypeName name="br.edu.ifpi.forca.modelo.Rodada"/>
+<fullyQualifiedTypeName name="br.edu.ifpi.forca.modelo.Tema"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+</qualifiedTypeNameHistroy>

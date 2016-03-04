@@ -1,0 +1,5 @@
+#Thu Feb 25 09:51:59 BRT 2016
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.help.ui.localSearch.master=true
+expression=Import a Team Project Set

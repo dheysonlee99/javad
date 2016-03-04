@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportPSFDialog">
+		<item value="https://github.com/timeSon/associapp.git" key="previous_url"/>
+		<list key="urls">
+			<item value="https://github.com/timeSon/associapp.git"/>
+			<item value="https://github.com/danielsilvafarias/associapp.git"/>
+		</list>
+	</section>
+</section>
